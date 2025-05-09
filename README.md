@@ -1,6 +1,3 @@
----
-
-```
 # Omnifood Landing Page 🌱
 
 Omnifood is a modern, responsive landing page for a fictional food delivery service. This project was created to demonstrate HTML and CSS design principles, responsive layouts, and user-focused design.
@@ -18,7 +15,6 @@ Omnifood is a modern, responsive landing page for a fictional food delivery serv
 ## 📁 Project Structure
 
 ```
-
 Omnifood-main/
 ├── index.html                # Main landing page
 ├── css/
@@ -26,8 +22,7 @@ Omnifood-main/
 │   ├── style.css             # Main styling
 │   └── queries.css           # Media queries for responsiveness
 └── img/                      # Images and icons used in the site
-
-````
+```
 
 ## 📸 Preview
 
@@ -42,21 +37,20 @@ Omnifood-main/
 git clone https://github.com/your-username/omnifood.git
 cd omnifood
 open Omnifood-main/index.html
-````
+```
 
 No installation or build steps are required since this is a static site.
 
 ## 🧑‍💻 Technologies Used
 
-* HTML5
-* CSS3
-* Responsive Web Design
+- HTML5  
+- CSS3  
+- Responsive Web Design  
 
+## 📄 License
 
+This project is open source and available under the [MIT License](LICENSE).
 
-```
+## 🙌 Acknowledgements
 
----
-
-Let me know if you’d like to personalize the GitHub link or add deployment instructions.
-```
+Design inspired by Jonas Schmedtmann's "Build Responsive Real-World Websites with HTML and CSS" course on Udemy.
