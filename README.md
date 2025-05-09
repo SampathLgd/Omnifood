@@ -16,12 +16,14 @@ Omnifood is a modern, responsive landing page for a fictional food delivery serv
 
 ```
 Omnifood-main/
-├── index.html                # Main landing page
+├── index.html # Main landing page
 ├── css/
-│   ├── general.css           # Utility and base styles
-│   ├── style.css             # Main styling
-│   └── queries.css           # Media queries for responsiveness
-└── img/                      # Images and icons used in the site
+│ ├── general.css # Utility and base styles
+│ ├── style.css # Main styling
+│ └── queries.css # Media queries for responsiveness
+├── js/
+│ └── script.js # JavaScript for interactivity
+└── img/ # Images and icons used in the site
 ```
 
 ## 📸 Preview
@@ -44,7 +46,8 @@ No installation or build steps are required since this is a static site.
 ## 🧑‍💻 Technologies Used
 
 - HTML5  
-- CSS3  
+- CSS3
+- JavaScript (DOM manipulation, events, Intersection Observer API)
 - Responsive Web Design  
 
 
