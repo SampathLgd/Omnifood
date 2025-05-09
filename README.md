@@ -47,10 +47,4 @@ No installation or build steps are required since this is a static site.
 - CSS3  
 - Responsive Web Design  
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🙌 Acknowledgements
-
-Design inspired by Jonas Schmedtmann's "Build Responsive Real-World Websites with HTML and CSS" course on Udemy.
